@@ -23,7 +23,6 @@ C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\F
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.InputSystem.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.AIModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UIModule.dll
-C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\NavMeshComponents.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.VideoModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.TextMeshPro.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityUIExtensions.dll
@@ -55,7 +54,6 @@ C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\F
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.GridModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.SubsystemsModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.LocalizationModule.dll
-C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UNETModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.DirectorModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.ScreenCaptureModule.dll
@@ -63,7 +61,6 @@ C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\F
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.SpriteMaskModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.StreamingModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.TerrainPhysicsModule.dll
-C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.TextCoreModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.SpriteShapeModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UIElementsModule.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.VehiclesModule.dll
@@ -89,5 +86,18 @@ C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\F
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.Mathematics.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.Burst.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\plog.unity.dll
-C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.Burst.Unsafe.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\PluginConfigurator.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\netstandard.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\TriInspector.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\Unity.AI.Navigation.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\PluginConfiguratorComponents.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UnityCurlModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.ContentLoadModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.PropertiesModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.TLSModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.NVIDIAModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.VirtualTexturingModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\theca\Documents\Coding Stuff\CVS Deluxe\VS\United Kingdom\FasterPunch\FasterPunch\bin\Release\UnityEngine.TextCoreTextEngineModule.dll
